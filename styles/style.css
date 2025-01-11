@@ -251,6 +251,65 @@ header .new-bangladesh {
     border: none;
 
 }
+/* input-area */
+.donate .container {
+    width: 80%;
+    margin: auto;
+}
+.donate h3 {
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.donate p {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+    margin: 10px 5px;
+}
+.donate .taka {
+    text-align: center;
+}
+.donate .taka button {
+    padding: 15px 25px;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    border:1px solid gray;
+
+}
+.donate .color {
+    background-color: aquamarine;
+}
+.donate .input-1 {
+    text-align: center;
+    margin: 20px 0;
+}
+.donate input[type=text] {
+    text-align: center;
+    /* display: block; */
+    width: 50%;
+    padding: 10px 0;
+    /* border:1px solid  aquamarine; */
+    
+}
+.donate .input-1 button  {
+    margin: 10px 0;
+    cursor: pointer;
+    padding: 8px 20px;
+    background-color: rgb(0, 106, 80);
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
 
 
 
