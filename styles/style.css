@@ -310,6 +310,10 @@ header .new-bangladesh {
     border: none;
     color: white;
 }
+.donate .input-1 button:hover{
+    background-color: rgb(190, 150, 97);
+    color: black;
+}
 
 
 
