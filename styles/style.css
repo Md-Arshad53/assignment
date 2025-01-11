@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header .container {
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+}
+.new-bangladesh .text-area h4 {
+    /* color: 0E0E0E; */
+    /* color: red; */
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 15px;
+    text-transform: capitalize;
+    /* font-weight: 500; */
+    line-height: 29px;
+    /* letter-spacing: 0%; */
+    /* text-align: left; */
+}
+.new-bangladesh .text-area h2{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0%;
+    /* text-align: left; */
+}
+header .new-bangladesh {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    /* align-content: center; */
+
+}
+.new-bangladesh .text-area {
+    width:37%;
+}
+.new-bangladesh .img-1 {
+    width: 40%;
+    margin-bottom: 120px;
+    margin-top: 40px;
+}
+.new-bangladesh .img-1 img {
+    width: 100%;
+    height: 250px;
+}
+.new-bangladesh .text-area a {
+    padding:8px 15px ;
+    border-radius: 5px;
+    color: white;
+    background: rgb(0, 106, 80);
+    text-decoration: none;
+}
+.new-bangladesh .text-area button {
+    border: none;
+    margin-top: 40px;
+}
+/* vision bangladesh */
+.card-box {
+    width: 80%;
+    margin:100px auto;
+}
+.card-box .text h2 {
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 30px;
+    font-weight: 700;
+    /* line-height: 48px; */
+    letter-spacing: 0%;
+    text-align: left;
+}
+.card-box .text p {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align:left;
+    margin: 20px 0;
+
+}
+.card-box .cards-parent {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+
+
+}
+.card-box .cards-parent h3{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.card-box .cards-parent p {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.card-box .cards-parent  .a{
+    text-transform: capitalize;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 5px;
+    background: rgb(84, 144, 245);
+    padding: 6px 10px;
+    /* margin: 20px 0; */
+}
+.card-box .cards-parent button {
+    border: none;
+}
+.card-box .cards-parent .cards {
+    /* background-color: ;*/
+    /* box-sizing: border-box; */
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    /* margin-right: 15px; */
+    /* padding: 20px 0; */
+}
+.card-box .cards-parent .margin {
+    margin: 14px 20px;
+    width: 90%;
+}
+.card-box .cards-parent .cards-1{
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+}
+.card-box .cards-parent .cards-2{
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+}
+.card-box .cards-parent .a-1{
+    /* border-radius: 8px; */
+
+    text-transform: capitalize;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 5px;
+    background: rgb(9, 161, 92);
+    padding: 6px 10px;
+}
+.card-box .cards-parent .a-2{
+    text-transform: capitalize;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 5px;
+    background:rgb(255, 194, 57);
+    padding: 6px 10px;
+}
+
+
+
+
