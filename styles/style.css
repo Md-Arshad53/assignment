@@ -1,7 +1,10 @@
 * {
     margin: 0;
     padding: 0;
+    /* background-color:rgb(238, 231, 231); */
 }
+.header-area {}
+    /* background-color:rgb(238, 231, 231); */
 header .container {
     max-width: 80%;
     margin: 0 auto;
@@ -179,6 +182,74 @@ header .new-bangladesh {
     border-radius: 5px;
     background:rgb(255, 194, 57);
     padding: 6px 10px;
+}
+/* recent news */
+.bangladesh .container {
+    width: 80%;
+    margin: auto;
+}
+.margin-1 {
+    background-color: rgb(235, 228, 228);
+    border-radius: 10px;
+    padding:20px 20px;
+    margin-top: 20px;
+}
+.recent-news .main-post {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 15px;
+}
+.sattelite {
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 30px;
+    /* background-color: white; */
+    /* margin: 30px 0; */
+
+
+}
+.sattelite .image {
+    width: 60%;
+    /* border-radius: 8px; */
+}
+.sattelite .image img {
+    width: 100%;
+    border-radius: 8px;
+}
+.sattelite .short {
+    margin: 10px 0;
+}
+.sattelite .description {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 25px;
+ }
+ .sattelite .al-jajiraa a {
+    text-decoration: none;
+    color: white;
+    font-family: Fira Sans;
+    font-size: 14px;
+    font-weight: 400;
+     line-height: 19px; 
+    letter-spacing: 0%;
+    text-align: center; 
+    border-radius: 5px;
+    background:rgb(0, 106, 80);
+    padding: 7px 15px;
+} 
+.sattelite .al-jajiraa button {
+    border: none;
+
 }
 
 
